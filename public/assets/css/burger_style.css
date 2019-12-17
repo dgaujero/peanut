@@ -1,0 +1,38 @@
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+#burgerPic {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+#userInput {
+    display: block;
+    width: 24%;
+    margin: auto;
+    text-align: center;
+}
+
+#submitBTN {
+    margin: 0 auto;
+    display: block;
+}
+
+body {
+    background-color: rgb(207, 139, 51);
+}
+
+#addedBurger {
+    margin: auto;
+    text-align: center;
+}
+
+#eatenBurger {
+    margin: auto;
+    text-align: center;
+}
+
